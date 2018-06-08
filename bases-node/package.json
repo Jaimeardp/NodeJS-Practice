@@ -1,0 +1,16 @@
+{
+  "name": "bases-node",
+  "version": "1.0.0",
+  "description": "Aplicacion de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaime Robles",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {}
+}
